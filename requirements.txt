@@ -1,0 +1,11 @@
+icecream
+requests
+ipyleaflet
+matplotlib
+overpy
+geopandas
+pandas
+pre-commit
+black
+black[jupyter]
+coverage
